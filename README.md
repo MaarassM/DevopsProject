@@ -1,4 +1,4 @@
-# DevopsProject
+# DevopsProject - Hospital Management
 
 ## 1. Project Overview
 ## 2. Requirement analysis
